@@ -4,4 +4,3 @@
 add
 我是谢念。
 git cherry-pick file.
-git cherry-pick file.
