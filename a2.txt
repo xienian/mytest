@@ -4,4 +4,7 @@
 add
 我是谢念。
 git cherry-pick file.
+git cherry-pick file.
+git cherry-pick file.
 今天我去补牙了。
+我买牛奶了。
